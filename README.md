@@ -19,7 +19,7 @@ The project received **1st place in class** and was graded **A**.
 
 ## 📑 Deliverables
 - 📄 [Full Business Plan PDF](./Business_Plan_MaokAI.pdf)  
-- 🎥 Presentation Slides (coming soon)  
+- 📊 [Presentation Slides (PPTX)](./MaokAI_Presentation.pptx)
 
 ---
 
